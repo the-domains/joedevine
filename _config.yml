@@ -1,3 +1,4 @@
+layout_spectrum: 0.25739161716774106
 typography_spectrum: 0.789343181066215
 color:
   brandStrength: 0.8197697487194091
@@ -10,7 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.25739161716774106
 name: joedevine
-title: my place on the interwebs
-description: © joe devine
