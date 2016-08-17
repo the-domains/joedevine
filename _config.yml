@@ -1,4 +1,3 @@
-layout_spectrum: 0.25739161716774106
 typography_spectrum: 0.789343181066215
 color:
   brandStrength: 0.8197697487194091
@@ -6,9 +5,11 @@ color:
   saturation: 0.9103817099239677
   rhythmicContrast: 0.1193925435654819
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.25739161716774106
 name: joedevine
+description: © joe devine
